@@ -1,4 +1,4 @@
-# appliance-energy-use 
+# appliance-energy-usage 
 
 This is an example project for demonstrating the quality of the 
 code I am able to develop. Achieving a decent performance for the 
