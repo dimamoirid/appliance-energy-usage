@@ -32,7 +32,7 @@ git clone https://github.com/dimamoirid/appliance-energy-usage.git
 cd appliance-energy-usage
 
 conda env create -f environment.yml
-conda activate code_sample_1
+conda activate appliance-energy-usage
 
 pip install -e .
 ```
